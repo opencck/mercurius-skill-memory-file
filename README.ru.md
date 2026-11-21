@@ -1,4 +1,4 @@
-[English](README.md) | **Русский**
+[English](README.md) | **Русский** | [中文](README.cn.md)
 
 # mercurius-skill-memory-file
 
